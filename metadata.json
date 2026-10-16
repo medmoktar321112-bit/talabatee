@@ -1,0 +1,6 @@
+{
+  "name": "طلباتي - خدمة التسوق والطلبات والتوصيل",
+  "description": "تطبيق «طلباتي» الذكي لشراء وتوصيل الطعام والأدوية والملابس والطلبات المتنوعة نيابة عن العملاء عبر واتساب مع لوحة تحكم متقدمة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
